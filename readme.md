@@ -1,4 +1,4 @@
-git clone
+git clone https://github.com/Lucifurge/PyeulSharing_Termux.git
 
 
 cd PyeulSharing_Termux
